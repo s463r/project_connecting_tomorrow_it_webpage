@@ -1,3 +1,10 @@
 .intro{
   padding: 20px 20px;
 }
+
+footer{
+  background-color : #262b29;
+  color : #fff;
+  padding : 20px;
+  text-align : center;
+}
